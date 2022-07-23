@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "BoxesProject\Logic.csproj", "{68B51612-BA9E-41A8-A851-01FA38296D82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "DataStructures\DataStructures.csproj", "{C97A5C49-FCA1-47A0-AFBC-19C67F15EBAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Porgram", "Porgram\Porgram.csproj", "{30D97E6C-66E6-43BB-950E-ADCD2F05C697}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68B51612-BA9E-41A8-A851-01FA38296D82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B51612-BA9E-41A8-A851-01FA38296D82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68B51612-BA9E-41A8-A851-01FA38296D82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68B51612-BA9E-41A8-A851-01FA38296D82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C97A5C49-FCA1-47A0-AFBC-19C67F15EBAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C97A5C49-FCA1-47A0-AFBC-19C67F15EBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C97A5C49-FCA1-47A0-AFBC-19C67F15EBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C97A5C49-FCA1-47A0-AFBC-19C67F15EBAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30D97E6C-66E6-43BB-950E-ADCD2F05C697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D97E6C-66E6-43BB-950E-ADCD2F05C697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D97E6C-66E6-43BB-950E-ADCD2F05C697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D97E6C-66E6-43BB-950E-ADCD2F05C697}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDB6CEE0-AE65-447E-8922-B59B7631239F}
+	EndGlobalSection
+EndGlobal

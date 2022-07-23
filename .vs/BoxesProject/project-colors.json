@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "13e93266-3a2a-4aa6-9e33-a68a7a3a23bd": {
+      "ProjectGuid": "13e93266-3a2a-4aa6-9e33-a68a7a3a23bd",
+      "DisplayName": "Logic",
+      "ColorIndex": 0
+    },
+    "292bd7db-cee0-4e46-8581-37f261d93180": {
+      "ProjectGuid": "292bd7db-cee0-4e46-8581-37f261d93180",
+      "DisplayName": "DataStructures",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "af6dbde6-ab7e-4b22-814e-ab01376101b2": {
+      "ProjectGuid": "af6dbde6-ab7e-4b22-814e-ab01376101b2",
+      "DisplayName": "Boxes",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
